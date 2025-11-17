@@ -2,7 +2,7 @@ This is the repo for Chinese University of Hong Kong CSCI3170 Database Project 2
 
 This project is completed by Group 22:  
 Darren CHAN Yu Hao 1155216989  
-MINH Nguyen 1155163035  
+Ba Minh NGUYEN 1155184240 
 MUI Chung Yin 1155163035  
 
 You may execute this project by running the Main.java found in the src folder.
